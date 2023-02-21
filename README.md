@@ -1,4 +1,4 @@
-## Innovate to Elevate
+## Arduino Day 10° edition: Innovate to Elevate
 ### 🎉 Arduino Day 2023 on Simplinnovation 🎉
 
 <hr>
